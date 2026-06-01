@@ -1,4 +1,5 @@
 raw_video_data.csv
 YT_channeldata.csv
 YT_videodata.csv
-.ipynb_checkpoints/
+.ipynb_checkpoints
+.ipynb_checkpoints/Yt-analysis-checkpoint.ipynb
