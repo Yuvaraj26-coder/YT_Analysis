@@ -178,6 +178,8 @@ Categorized titles into:
 * Visit [Google Cloud Console](https://console.cloud.google.com/)
 * Create a project
 * Enable **YouTube Data API v3**
+* Check its [documentation](https://developers.google.com/youtube/v3)
+* *Pro Tip:* Use Online JSON Parser while extracting data
 
 ---
 
